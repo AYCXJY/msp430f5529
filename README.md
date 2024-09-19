@@ -1,1 +1,1 @@
-simple peripheral module
+电赛小车 MSP430F5529的驱动代码。
